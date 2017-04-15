@@ -5,3 +5,8 @@ embeddings/data/
 embeddings/text8.zip
 
 .ipynb_checkpoints/
+
+vgg16.npy
+transfer-learning/flower_photos
+
+*.tar.gz
