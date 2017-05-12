@@ -8,5 +8,6 @@ embeddings/text8.zip
 
 vgg16.npy
 transfer-learning/flower_photos
+face_generation/data/
 
 *.tar.gz
