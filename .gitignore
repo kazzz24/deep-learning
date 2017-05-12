@@ -11,3 +11,5 @@ transfer-learning/flower_photos
 face_generation/data/
 
 *.tar.gz
+*.gz
+
