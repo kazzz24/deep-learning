@@ -10,3 +10,15 @@ lib64
 parts
 sdist
 var
+
+embeddings/data/
+embeddings/text8.zip
+
+.ipynb_checkpoints/
+
+vgg16.npy
+transfer-learning/flower_photos
+face_generation/data/
+
+*.tar.gz
+*.gz
